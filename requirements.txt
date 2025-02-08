@@ -5,3 +5,5 @@ crewai[tools]
 chromadb
 python-dotenv
 google-generativeai
+sentence-transformers 
+torch
